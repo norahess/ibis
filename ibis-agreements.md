@@ -31,10 +31,18 @@ These agreements outline our work together on this research project and our ment
 ### 3. Our expectations of each other in this partnership are:
 
 - [ ] mode of communication:
-  - primary GitHub Projects
-    - 
-  - secondary text 
-    - Sarah (907) 209-6978
-    - Nora
-  - tertiarty email
+
+  primary--->  email
+
+  	- Sarah stanja@uw.edu
+  	- Nora nhessen@uw.edu
+
+  secondary---> GitHub Projects
+
+  back-up---> text
+
+  - Sarah (907) 209-6978
+  - Nora (206) 503-6866
+
+  
 

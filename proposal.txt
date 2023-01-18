@@ -11,3 +11,5 @@
 [*Aiptasia*](https://www.protocols.io/view/aiptasia-spawning-and-embryo-larvae-handling-weis-x54v99pmv3eq/v1) sea anemone, Symbiodinacea model system
 
 > The spawning incubators are setup to mimic the lunar cycle by providing blue light (peak wavelength at 450 nm, intensity ~10µmol photons /mm2s) every 28 days. The blue light is turned on during the 12 hour dark period for the first 5 days of the 28-day cycle. If well-fed and healthy, polyps will likely spawn within the first two 28-day cycles. Spawning typically occurs between days 13 - 20.
+
+- [ ] Hey what up
