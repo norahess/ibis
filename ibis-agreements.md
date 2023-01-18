@@ -39,7 +39,7 @@ These agreements outline our work together on this research project and our ment
 
   secondary---> GitHub Projects
 
-  back-up---> text
+  - back-up---> text
 
   - Sarah (907) 209-6978
   - Nora (206) 503-6866
