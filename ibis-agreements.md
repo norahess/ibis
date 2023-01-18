@@ -44,5 +44,7 @@ These agreements outline our work together on this research project and our ment
   - Sarah (907) 209-6978
   - Nora (206) 503-6866
 
+-Weekly meetings on Wednesdays (1-3pm) 
+
   
 
