@@ -12,3 +12,13 @@
 
 > The spawning incubators are setup to mimic the lunar cycle by providing blue light (peak wavelength at 450 nm, intensity ~10µmol photons /mm2s) every 28 days. The blue light is turned on during the 12 hour dark period for the first 5 days of the 28-day cycle. If well-fed and healthy, polyps will likely spawn within the first two 28-day cycles. Spawning typically occurs between days 13 - 20.
 
+Kelp gametophytes
+
+> Dependent on FHL access if possible to run using this organism
+
+**Basic Outline:** 
+
+In our changing world, many marine organisms are facing contact with microplastics and other toxic pollutants that get washed into marine ecosystems. Many microplastics have leachates that leak into the water, and thus affect water quality, and in turn harm many organismal processes when organisms are exposed to such conditions.  
+
+
+
