@@ -16,9 +16,41 @@
 
 > Dependent on FHL access if possible to run using this organism
 > Adult kelp plants reach maturity in mid summer, and thus begin to form spori in reproductive efforts. Dessication and cool temperatures can induce releasing of spori in bull kelp species if collected and brought to lab.
+>
+> ## Abstract
+>
+> 300 words
+>
+> title
+>
+> 
 
 **Basic Outline:** 
 
-In our changing world, many marine organisms are facing contact with plastics and microplastics that get washed into marine ecosystems. Many plastics have leachates that leak into the water, and thus affect water quality, and in turn [harm many organismal processes](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01369-x) when organisms are exposed to such conditions. This can have devasting effects on that organisms abundance, overall primary productivity in regions, and alter trophic level systems. In previous microplastic leechate experiments, [organisms of interest have been in phytoplankton](https://www.nature.com/articles/s42003-019-0410-x), but little research has been conducted on other organisms. In this experiment, our goals are to understand the relationship of an organism's growth rate (growth progression) vs the levels of toxic leachates exposed to, allowing us to see the effects of toxic pollutant presence in environments. We will then compare certain concentration tolerances of our experiment and others to see the implications of different groups having different tolerances to plastic leachates, and see how certain groups may be at higher risks for leachate exposure. In this experiment, I believe those organisms exposed to higher concentrations of plastic leachate will have little to no growth progression, and there will be a maximum tolerance that an organism can withstand and continue to grow properly.
+context
 
+In our changing world, many marine organisms are facing contact with plastics and microplastics that get washed into marine ecosystems. Many plastics have leachates that leak into the water, and thus affect water quality, and in turn [harm many organismal processes](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01369-x) when organisms are exposed to such conditions. This can have devasting effects on that organisms abundance, overall primary productivity in regions, and alter trophic level systems. Previous microplastic leachate experiments have focused on [ phytoplankton](https://www.nature.com/articles/s42003-019-0410-x), but little research has been conducted on other organisms.
 
+question 
+
+In this experiment, our goals are to understand the relationship of an organism's growth rate (growth progression) vs the levels of toxic leachates exposed to, allowing us to see the effects of toxic pollutant presence in environments.
+
+methods
+
+We will then compare certain concentration tolerances of our experiment and others to see the implications of different groups having different tolerances to plastic leachates, and see how certain groups may be at higher risks for leachate exposure. 
+
+- here we will expose bull kelp gametophytes to increasing concentrations of plastic leachate in a classic ecotoxicology experiment.
+- Multiple Stressor experiment: plastic leachates and thermal stress (wine coolers)
+
+hypothesis + anticipated results
+
+In this experiment, I believe those organisms exposed to higher concentrations of plastic leachate will have little to no growth progression, and there will be a maximum tolerance that an organism can withstand and continue to grow properly.
+
+key implications
+
+- Dramatic Bull Kelp forest declines have been observed in the Puget Sound
+- [Puget Sound Restoration Fund](https://restorationfund.org/programs/bullkelp/) has been working to restore bull kelp forests to the Puget Sound
+
+  
+
+In our changing world, many marine organisms are facing contact with plastics and microplastics that get washed into marine ecosystems. Many plastics have leachates that leak into the water, and thus affect water quality, and in turn [harm many organismal processes](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01369-x) when organisms are exposed to such conditions. This can have devasting effects on that organisms abundance, overall primary productivity in regions, and alter trophic level systems. Previous microplastic leachate experiments have focused on [ phytoplankton](https://www.nature.com/articles/s42003-019-0410-x), but little research has been conducted on other organisms. In this experiment, our goals are to understand the relationship of an organism's growth rate (growth progression) vs the levels of toxic leachates exposed to, allowing us to see the effects of toxic pollutant presence in environments. We will then compare certain concentration tolerances of our experiment and others to see the implications of different groups having different tolerances to plastic leachates, and see how certain groups may be at higher risks for leachate exposure. In this experiment, I believe those organisms exposed to higher concentrations of plastic leachate will have little to no growth progression, and there will be a maximum tolerance that an organism can withstand and continue to grow properly.
