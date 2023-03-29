@@ -1,0 +1,48 @@
+# Program on Climate Change Climate Solutions Grant Application
+
+*Participants*
+
+**Identity, Belonging and Inquiry in Science (IBIS) mentorship program participants:**
+
+Sarah Tanja, UW SAFS, graduate student
+
+Nora Hessen, UW Oceanography, undergraduate student
+
+<img src="C:\Users\ssdon\OneDrive\Documents\ibis\images\IBIS_final_BlackOutline.png" alt="IBIS-logo" style="zoom:24%;" />
+
+------
+
+
+
+ *Rationale*
+
+Coral reefs sustain 25% of the world’s marine biodiversity and are vital to economic and food security for hundreds of millions of people (Souter et al. 2020). They are endangered worldwide by climate change and pollution. Under a CMIP6 climate scenario, it is forecasted that more than 75% of coral reefs will experience *yearly severe bleaching* before 2070 due to thermal stress. Researchers are hustling for solutions to conserve coral reefs and their vital habitat functions; by exploring everything from coral planting restoration to genetic modification. We think that a key part to future coral conservation will be reducing coastal pollution from plastic waste (Claar et al. 2020). To test this, we conducted a multiple stressor experiment by exposing *Montipora capitata* corals to both heat stress and plasticizers commonly found in plastic consumer products. We hypothesize that the combined stressors will increase pathogenic bacteria associated with the coral holobiont and increase transcriptional changes linked to endocrine disrupting pathways compared with both the control and heat stress alone. We now have 280 samples from the experiment frozen at -80C and ready for genomics analysis. Through the IBIS mentoring program, we hope to simultaneously foster undergraduate research experience and open the molecular and bioinformatics tool-kit needed to address this piece of the coral reef conservation puzzle. 
+
+*Use of Funds*
+
+ We propose to use the Climate Solutions Grant to pay for RNA extraction kits and sequencing services to be used for our collaborative graduate to undergraduate IBIS mentoring program research project. While it doesn't cost money to work together in a lab, or learn to use free open-source bioinformatics software, it does cost to pay for sample RNA extraction kits and sequencing services. Paying for these necessary steps in the research process is the biggest barrier our IBIS project has currently. 
+
+###### Proposed Budget
+
+| Item                                     | Quant.       | Price ea. | Cost     |
+| ---------------------------------------- | ------------ | --------- | -------- |
+| DNA/RNA extraction kits, 10 preps        | 2            | $86.90    | $173.80  |
+| Total RNA Sequencing Service, per sample | 20           | $200      | $4000    |
+|                                          | **Total : ** |           | $4173.80 |
+
+*Timeline*
+
+We will begin conducting lab work at the start of the 2023 Spring quarter, and expect preliminary results by the end of Spring quarter. 
+
+<img src="C:\Users\ssdon\OneDrive\Documents\ibis\images\pcc-timeline.png" style="zoom:150%;" />
+
+*Expected Impact*
+
+This project is a stepping stone to involve minority undergrads with research, and build community, momentum, and engagement with climate solutions inquiries. This is a novel line of research that will add to coral reef conservation efforts and fill gaps in our understanding of the ecotoxicological effects of plastic pollution in the context of ocean warming. We expect to post regularly about this project in an open-science [GitHub repository](https://github.com/norahess/ibis), publish this work as co-authors, and present this at an end of program IBIS celebration. 
+
+###### References
+
+Claar, Danielle C., Samuel Starko, Kristina L. Tietjen, Hannah E. Epstein, Ross Cunning, Kim M. Cobb, Andrew 	C. Baker, Ruth D. Gates, and Julia K. Baum. 2020. “Dynamic Symbioses Reveal Pathways to Coral Survival 	Through Prolonged Heatwaves.” Nature Communications 11 (1): 6097. https://doi.org/10.1038/s41467-02	0-19169-y.
+
+Souter, David, Serge Planes, Jérémy Wicquart, Murray Logan, David Obura, and Francis Staub. 2020. “Status 	of Coral Reefs of the World: 2020.” Executive Summary. UN Environmental Programme: Global Coral Reef 	Monitoring Network & International Coral Reef Initiative.
+	https://gcrmn.net/wp-content/uploads/2021/10/Executive-Summary-with-Forewords.pdf.
