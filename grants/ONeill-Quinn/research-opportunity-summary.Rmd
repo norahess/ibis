@@ -9,8 +9,10 @@ header-includes:
    - \newcommand{\blankline}{\quad\pagebreak[2]}
    - \usepackage{eso-pic}
    - \usepackage{graphicx}
-   - \newcommand\BackgroundPic{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering \includegraphics[width=\paperwidth,height=\paperheight, keepaspectratio]{w-letterhead-jpg.pdf} \vfill }}}
-geometry: top=1.5in, left=1.75in, bottom=1in, right=1in
+   - \usepackage[pages=some]{background}
+   - \backgroundsetup{scale=1,opacity=1,angle=0,contents={\includegraphics[width=\paperwidth,height=\paperheight]{letterhead-jpg.pdf}}}
+   - \newcommand\Wletterhead{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering \includegraphics[width=\paperwidth,height=\paperheight, keepaspectratio]{w-letterhead-jpg.pdf} \vfill }}}
+geometry: top=1.5in, left=1.75in, bottom=2in, right=1in
 # fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
@@ -24,7 +26,10 @@ knitr::opts_chunk$set(echo = FALSE)
 # We are offering support for undergraduate student experiential learning opportunities. These experiences could include, but are not limited to, efforts focusing on field work in the Puget Sound Region. Awards will be in the amount of $1000 and will be distributed directly to the student no later than June 01, 2023. Funds could be used at their discretion to support experiential learning opportunities. To apply for funding, faculty should provide a brief summary of the research opportunity including the educational benefit for a student, as well as an explanation of why you feel a given student would be a great candidate for this award. The application should be no longer than two pages and uploaded as a PDF below
 ```
 
-\AddToShipoutPicture*{\BackgroundPic}
+```{r first page}
+#This is the first page
+```
+\AddToShipoutPicture*{\Wletterhead}
 \pagenumbering{gobble}
 
 `r format(Sys.time(), '%B %d, %Y')`
@@ -34,6 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 To Whom It May Concern:
 
 \blankline
+
 ## What is the research opportunity?
 
 Nora Hessen has been accepted to study at Friday Harbor Labs as part of the Marine Botany course taught by Dr. Wilson Freshwater and Dr. Tom Mumford during this upcoming Summer quarter of 2023. During the course, Nora will be embarking on her first field experience and conducting her own independent project related to macroalgae . 
@@ -46,9 +52,19 @@ Nora would be a great candidate for this award because she is [ a list of amazin
 
 As a first-time field scientist, she has yet to build up her 'field-kit' of foul weather gear that is vital both for successful field data collections and for a budding scientists' safety, comfort, and sense of belonging. This award would provide Nora with the necessary funds to purchase boots for tidepooling, a good-quality rain jacket for working outside in the Puget Sound, warm layers, a pair of UV-protective sunglasses to cut glare while working on the water, gloves, hats, rite-in-the-rain notebooks, and the myriad other gear items that students at Friday Harbor Labs are expected to have. 
 
+### Talk a bit about access & priviledge in a nuanced way 
 
+```{r second page}
+# This is the second page
+```
+\pagebreak 
+\BgThispage
 
-Best regards,
+## Final paragraph concluding why Nora is awesome 
+
+Thank you for your consideration 
+
+Sincerely,
 
 ```{r echo=FALSE, out.width='30%'}
 #knitr::include_graphics('john-hancock-signature.png')
