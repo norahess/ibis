@@ -16,11 +16,14 @@ knitr::opts_chunk$set(echo = FALSE)
 # We are offering support for undergraduate student experiential learning opportunities. These experiences could include, but are not limited to, efforts focusing on field work in the Puget Sound Region. Awards will be in the amount of $1000 and will be distributed directly to the student no later than June 01, 2023. Funds could be used at their discretion to support experiential learning opportunities. To apply for funding, faculty should provide a brief summary of the research opportunity including the educational benefit for a student, as well as an explanation of why you feel a given student would be a great candidate for this award. The application should be no longer than two pages and uploaded as a PDF below
 ```
 
-What is the research opportunity?
+## What is the research opportunity?
 
-- Studying at Friday Harbor Labs as part of the Marine Botany course taught by Dr. Freshwater and Dr. Mumford
+Nora Hessen has been accepted to study at Friday Harbor Labs as part of the Marine Botany course taught by Dr. Wilson Freshwater and Dr. Tom Mumford. During the course, Nora will be embarking on her first field experience and conducting her own independent project. My Master's graduate student, Sarah Tanja, is mentoring Nora as part of the pilot Identity Belonging and Inquiry in Science (IBIS) and they plan to work together to develop an experiment and collect data that will be used as an undergraduate research experience for Nora. This research will be presented both at Friday Harbor at the commencement of the course, and at the SACNAS conference in Portland, OR on October 
 
 
-Why Nora would be a great candidate for this award...
+## Why is Nora a good candidate?
 
+Nora would be a great candidate for this award because she is [ a list of amazing traits and qualities]
+
+As a first-time field scientist, she has yet to build up her 'field-kit' of foul weather gear that is vital for successful field data collections. This award would provide her with the necessary funds 
 
