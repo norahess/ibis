@@ -55,12 +55,6 @@ As a first-time field scientist, she has yet to build up her 'field-kit' of foul
 
 ### Talk a bit about access & priviledge in a nuanced way 
 
-TEST TO MAKE SURE MY R WILL KNIT PROPERLY
-TEST
-
-git config --global user.email "norahess@uw.edu"
-  git config --global user.name "Your Name"
-
 ```{r second page}
 # This is the second page
 ```
