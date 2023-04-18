@@ -20,6 +20,7 @@ urlcolor: blue
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
 ```
 
 ```{r instructions}
@@ -53,6 +54,12 @@ Nora would be a great candidate for this award because she is [ a list of amazin
 As a first-time field scientist, she has yet to build up her 'field-kit' of foul weather gear that is vital both for successful field data collections and for a budding scientists' safety, comfort, and sense of belonging. This award would provide Nora with the necessary funds to purchase boots for tidepooling, a good-quality rain jacket for working outside in the Puget Sound, warm layers, a pair of UV-protective sunglasses to cut glare while working on the water, gloves, hats, rite-in-the-rain notebooks, and the myriad other gear items that students at Friday Harbor Labs are expected to have. 
 
 ### Talk a bit about access & priviledge in a nuanced way 
+
+TEST TO MAKE SURE MY R WILL KNIT PROPERLY
+TEST
+
+git config --global user.email "norahess@uw.edu"
+  git config --global user.name "Your Name"
 
 ```{r second page}
 # This is the second page
