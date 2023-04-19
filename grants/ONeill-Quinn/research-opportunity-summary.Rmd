@@ -18,6 +18,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
@@ -30,9 +31,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r first page}
 #This is the first page
 ```
+
+```{=tex}
 \AddToShipoutPicture*{\Wletterhead}
 \pagenumbering{gobble}
-
+```
 `r format(Sys.time(), '%B %d, %Y')`
 
 \blankline
@@ -43,41 +46,49 @@ To Whom It May Concern:
 
 ## What is the research opportunity?
 
-Nora Hessen has been accepted to study at Friday Harbor Labs as part of the Marine Botany course taught by Dr. Wilson Freshwater and Dr. Tom Mumford during this upcoming Summer quarter of 2023. During the course, Nora will be embarking on her first field experience and conducting her own independent project related to macroalgae . 
-My Master's graduate student, Sarah Tanja, is mentoring Nora as part of the pilot program, [Identity, Belonging and Inquiry in Science (IBIS)](https://environment.uw.edu/students/current-students/identity-belonging-and-inquiry-in-science-ibis-program/) and they plan to work together to develop an experiment and collect data that will be used as an undergraduate research experience for Nora. This research will be presented both at Friday Harbor at the commencement of the course, and at the [Society for Advancement of Chicanos/Hispanics & NAtive Americans in Science (SACNAS)](https://www.sacnas.org/conference) conference October 26-28, 2023 in Portland, Oregon.
-
+Nora Hessen has been accepted to study at Friday Harbor Labs (FHL) as part of the Marine Botany course taught by Dr. Wilson Freshwater and Dr. Tom Mumford during this upcoming Summer quarter of 2023. FHL is renowned for its hands-on learning approach in addition to its focus on field and lab work.
+During the course, Nora will be embarking on her first field experience and conducting her own independent project on seaweeds of the Puget Sound. My Master's graduate student, Sarah Tanja, is mentoring Nora as part of the pilot program, [Identity, Belonging and Inquiry in Science (IBIS)](https://environment.uw.edu/students/current-students/identity-belonging-and-inquiry-in-science-ibis-program/). They plan to work together to develop an experiment and collect data that will be used as an undergraduate research experience for Nora. This research will be presented both at Friday Harbor at the commencement of the course, and at the [Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS)](https://www.sacnas.org/conference) conference October 26-28, 2023 in Portland, Oregon.
 
 ## Why is Nora a good candidate?
 
-Nora would be a great candidate for this award because she is [ a list of amazing traits and qualities]
+Nora would be a great candidate for this award because she is \[ a list of amazing traits and qualities\]
 
-As a first-time field scientist, she has yet to build up her 'field-kit' of foul weather gear that is vital both for successful field data collections and for a budding scientists' safety, comfort, and sense of belonging. This award would provide Nora with the necessary funds to purchase boots for tidepooling, a good-quality rain jacket for working outside in the Puget Sound, warm layers, a pair of UV-protective sunglasses to cut glare while working on the water, gloves, hats, rite-in-the-rain notebooks, and the myriad other gear items that students at Friday Harbor Labs are expected to have. 
-
-### Talk a bit about access & priviledge in a nuanced way 
+As a first-time field scientist, she has yet to build up her 'field-kit' of foul weather gear that is vital both for successful field data collections and for a budding scientists' safety, comfort, and sense of belonging. This award would provide Nora with the necessary funds to purchase boots for tide-pooling, a good-quality rain jacket for working outside in rainy Puget Sound, warm layers, gloves, hats, rite-in-the-rain notebooks, and the myriad other gear items that students are expected to have as per the [student packing list](https://fhl.uw.edu/courses/what-to-expect-at-fhl/student-packing-list/).
 
 ```{r second page}
 # This is the second page
 ```
+
+```{=tex}
 \pagebreak 
 \BgThispage
+```
+## Final paragraph concluding why Nora is awesome
 
-## Final paragraph concluding why Nora is awesome 
+Thank you for your consideration
 
-Thank you for your consideration 
-
-Sincerely,
+Sincerely, \blankline
 
 ```{r echo=FALSE, out.width='30%'}
 #knitr::include_graphics('john-hancock-signature.png')
 ```
 
+```{=tex}
+\blankline
+\blankline
+```
+Dr. Jacqueline Padilla-Gamiño
+
+Associate Professor
+
+School of Aquatic & Fishery Sciences
 
 <!-- Dr. Jacqueline Padilla-Gamiño   -->
+
 <!-- Associate Professor   -->
+
 <!-- School of Aquatic & Fishery Sciences   -->
+
 <!-- E-mail: jpgamino@uw.edu   -->
+
 <!-- URL: https://fish.uw.edu/faculty/jacqueline-padilla-gamino/ -->
-
-
-
-
