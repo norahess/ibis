@@ -49,11 +49,16 @@ My Master's graduate student, Sarah Tanja, is mentoring Nora as part of the pilo
 
 ## Why is Nora a good candidate?
 
-Nora would be a great candidate for this award because she is [ a list of amazing traits and qualities]
+Nora would be a great candidate for this award because she is extremely interested in pursuing field-work and is continuing to further her research goals by exploring pathways that would allow her to get more hands-on experience within the field of marine biology. Over the course of the IBIS pilot program, Nora has shown eagerness to begin conducting field-work and working together with others to understand and explain trends within research. She is very hardworking and continues to be enthusiastic about research as she's continued to work together with Sarah in the IBIS program. She has expressed interest in research regarding kelp, and continues to aim for graduate school in hopes to explore her topic of interest and develop a better understanding of these ecosystems and their importance within the Puget Sound. 
+[ a list of amazing traits and qualities]
 
 As a first-time field scientist, she has yet to build up her 'field-kit' of foul weather gear that is vital both for successful field data collections and for a budding scientists' safety, comfort, and sense of belonging. This award would provide Nora with the necessary funds to purchase boots for tidepooling, a good-quality rain jacket for working outside in the Puget Sound, warm layers, a pair of UV-protective sunglasses to cut glare while working on the water, gloves, hats, rite-in-the-rain notebooks, and the myriad other gear items that students at Friday Harbor Labs are expected to have. 
 
 ### Talk a bit about access & priviledge in a nuanced way 
+Being a first-time field scientist, it can be costly to begin her journey within field-work, and these funds would grant her access to ease into the transition between first time field scientist and gaining more experience. Nora has excelled within UW's Marine Biology program, to which she was supported financially by several UW scholarships and federal pell grants. She is a full time, job-working student who is also taking part in the IBIS program, all done in order to further her education and allow access to the essential funds to attend school and explore her major-related interests. With these additional funds for field-work specific items, it would greatly reduce the burden of financial pressures on her ability to learn more about her interests, and allow her to focus solely on her experiment while at Friday Harbor. 
+##Add more? 
+
+
 
 ```{r second page}
 # This is the second page
@@ -62,6 +67,9 @@ As a first-time field scientist, she has yet to build up her 'field-kit' of foul
 \BgThispage
 
 ## Final paragraph concluding why Nora is awesome 
+With these additional funds, Nora would be able to afford a nice beginner friendly field-work necessities kit, 
+
+##Add more
 
 Thank you for your consideration 
 
