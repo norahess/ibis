@@ -1,19 +1,21 @@
 ---
 output:
+  word_document: default
   pdf_document:
     fig_caption: yes
     keep_tex: no
     latex_engine: pdflatex
 header-includes:
-   - \linespread{1.05}
-   - \newcommand{\blankline}{\quad\pagebreak[2]}
-   - \usepackage{eso-pic}
-   - \usepackage{graphicx}
-   - \usepackage[pages=some]{background}
-   - \backgroundsetup{scale=1,opacity=1,angle=0,contents={\includegraphics[width=\paperwidth,height=\paperheight]{letterhead-jpg.pdf}}}
-   - \newcommand\Wletterhead{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering \includegraphics[width=\paperwidth,height=\paperheight, keepaspectratio]{w-letterhead-jpg.pdf} \vfill }}}
+- \linespread{1.05}
+- \newcommand{\blankline}{\quad\pagebreak[2]}
+- \usepackage{eso-pic}
+- \usepackage{graphicx}
+- \usepackage[pages=some]{background}
+- \backgroundsetup{scale=1,opacity=1,angle=0,contents={\includegraphics[width=\paperwidth,height=\paperheight]{letterhead-jpg.pdf}}}
+- \newcommand\Wletterhead{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering
+  \includegraphics[width=\paperwidth,height=\paperheight, keepaspectratio]{w-letterhead-jpg.pdf}
+  \vfill }}}
 geometry: top=1.5in, left=1.75in, bottom=2in, right=1in
-# fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 urlcolor: blue
@@ -43,27 +45,18 @@ knitr::opts_chunk$set(echo = FALSE)
 To Whom It May Concern:
 
 \blankline
+\blankline
 
-## What is the research opportunity?
+Nora Hessen has been accepted to study at Friday Harbor Labs (FHL) for the Summer quarter of 2023, where she will take 'Marine Botany: Diversity and Ecology', a course taught by Dr. Wilson Freshwater and Dr. Tom Mumford. FHL is renowned for its hands-on learning approach in addition to its focus on field and lab work. During the course, Nora will be embarking on her first field experience, living at the field station in an immersive experiential learning environment and conducting her own independent project on macroalgae of the Puget Sound. 
 
-Nora Hessen has been accepted to study at Friday Harbor Labs (FHL) as part of the Marine Botany course taught by Dr. Wilson Freshwater and Dr. Tom Mumford during this upcoming Summer quarter of 2023. FHL is renowned for its hands-on learning approach in addition to its focus on field and lab work. During the course, Nora will be embarking on her first field experience and conducting her own independent project on seaweeds of the Puget Sound. My Master's graduate student, Sarah Tanja, is mentoring Nora as part of the pilot program, [Identity, Belonging and Inquiry in Science (IBIS)](https://environment.uw.edu/students/current-students/identity-belonging-and-inquiry-in-science-ibis-program/). They plan to work together to develop an experiment and collect data that will be used as an undergraduate research experience for Nora. This research will be presented at the commencement of the course, published in the [Friday Harbor Labs Student Research Papers Archive](https://digital.lib.washington.edu/researchworks/handle/1773/16338), and made into a poster for the [Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS)](https://www.sacnas.org/conference) conference October 26-28, 2023 in Portland, Oregon.
+My Masters student, Sarah Tanja, is mentoring Nora as part of the pilot program, [Identity, Belonging and Inquiry in Science (IBIS)](https://environment.uw.edu/students/current-students/identity-belonging-and-inquiry-in-science-ibis-program/), which was specifically developed to better engage students from diverse backgrounds in independent marine research projects and science networking opportunities. In my lab, Sarah will continue to mentor Nora during the Marine Botany Course in her role as TA. Together, they plan to conduct an experiment on Puget Sound's Macroalgal diversity related to global change and conservation. The field work and experiment will be used as an undergraduate research experience for Nora. This research will be presented at the commencement of the course, published in the [Friday Harbor Labs Student Research Papers Archive](https://digital.lib.washington.edu/researchworks/handle/1773/16338), and made into a poster for the [Society for Advancement of Chicanos/Hispanics & Native Americans in Science (SACNAS)](https://www.sacnas.org/conference) conference to be held October 26-28, 2023 in Portland, Oregon.
 
-## Why is Nora a good candidate?
+Nora is an excellent candidate for undergrad experiential learning support; she is committed, responsible, and disciplined in her pursuit of knowledge and skills to further her education and experience in her chosen field. She is extremely interested in pursuing field-work and is already looking beyond her time at FHL and exploring additional pathways to hands-on experiences in marine biology. Over the course of the IBIS pilot program, Nora has shown eagerness to begin conducting field-work and working together with others to understand and explain trends within research. She is very hardworking and continues to be enthusiastic about research as she's continued to work with Sarah in the IBIS program. She has expressed interest in research regarding kelp and continues to aim for graduate school in hopes to explore her topic of interest and develop a better understanding of kelp and their importance within the Puget Sound. 
 
-<<<<<<< HEAD
-Nora would be a great candidate for this award because she is extremely interested in pursuing field-work and is continuing to further her research goals by exploring pathways that would allow her to get more hands-on experience within the field of marine biology. Over the course of the IBIS pilot program, Nora has shown eagerness to begin conducting field-work and working together with others to understand and explain trends within research. She is very hardworking and continues to be enthusiastic about research as she's continued to work together with Sarah in the IBIS program. She has expressed interest in research regarding kelp, and continues to aim for graduate school in hopes to explore her topic of interest and develop a better understanding of kelp and their importance within the Puget Sound. 
+However, these exciting aspirations need support. As a first-time field scientist, Nora has yet to build up her 'field-kit' of foul weather gear that is vital both for successful field data collections and for a budding scientists' safety, comfort, and sense of belonging. This award would provide Nora with the necessary funds to purchase boots for tide-pooling, a good-quality rain jacket for working outside in rainy Puget Sound, warm layers, gloves, hats, rite-in-the-rain notebooks, and the myriad other gear items that students are expected to have as per the [student packing list](https://fhl.uw.edu/courses/what-to-expect-at-fhl/student-packing-list/).
+These essentials would provide the necessary materials to jump right into field-work at Friday Harbor, allowing Nora to solely focus on research and collecting data instead of trying to compile the funds necessary to begin her journey into field-work. 
 
-As a first-time field scientist, she has yet to build up her 'field-kit' of foul weather gear that is vital both for successful field data collections and for a budding scientists' safety, comfort, and sense of belonging. This award would provide Nora with the necessary funds to purchase boots for tidepooling, a good-quality rain jacket for working outside in the Puget Sound, warm layers, a pair of UV-protective sunglasses to cut glare while working on the water, gloves, hats, rite-in-the-rain notebooks, and the myriad other gear items that students at Friday Harbor Labs are expected to have. These essentials would provide the necessary materials to jump right into field-work at Friday Harbor, allowing Nora to solely focus on research and collecting data instead of trying to compile the funds necessary to begin her journey into field-work. 
-### Talk a bit about access & priviledge in a nuanced way 
-Being a first-time field scientist, it can be costly to begin her journey within field-work, and these funds would grant her access to ease into the transition between first time field scientist and gaining more experience. Coming from a family of 5, Nora has not experienced access to an abundance of funds to support materials regarding her education without the help of UW's generous scholarship programs and federal pell grants. With the additional funds from this award, Nora would have access to the necessary materials one would need to complete thorough field-work. Nora has excelled within UW's Marine Biology program while being a full time, job-working student who is also taking part in the IBIS program. She is passionate about her studies, and has continued to further her education and explore her major-related interests. With these additional funds for field-work specific items, it would greatly reduce the burden of financial pressures on her ability to learn more about her interests, and allow her to focus solely on her research regarding kelp while at Friday Harbor. 
-
-
-
-=======
-Nora is an excellent candidate for this award; she has shown commitment, responsibility, and discipline in her pursuit of knowledge and skills to further her education and experience in the field of Marine Biology at the University of Washington.
-
-However, as a first-time field scientist, she has yet to build up her 'field-kit' of foul weather gear that is vital both for successful field data collections and for a budding scientists' safety, comfort, and sense of belonging. This award would provide Nora with the necessary funds to purchase boots for tide-pooling, a good-quality rain jacket for working outside in rainy Puget Sound, warm layers, gloves, hats, rite-in-the-rain notebooks, and the myriad other gear items that students are expected to have as per the [student packing list](https://fhl.uw.edu/courses/what-to-expect-at-fhl/student-packing-list/).
->>>>>>> 2d513e3634b4a810035a539a3f9d7442cfa9cbde
+Being a first-time field scientist, it can be costly to begin her journey within field-work, and these funds would grant her access to ease into the transition between first time field scientist and gaining more experience. Coming from a family of 5, Nora has not experienced access to an abundance of funds to support materials regarding her education without the help of UW's generous scholarship programs and Federal Pell Grants. With the additional funds from this award, Nora would have access to the necessary materials one would need to complete thorough field-work. Nora has excelled within UW's Marine Biology program while being a full time, job-working student who is also taking part in the IBIS program. She is passionate about her studies, and has continued to further her education and explore her major-related interests. With these additional funds for field-work specific items, it would greatly reduce the burden of financial pressures on her ability to learn more about her interests, and allow her to focus wholeheartedly on researching macroalgae while at Friday Harbor. 
 
 ```{r second page}
 # This is the second page
@@ -73,18 +66,13 @@ However, as a first-time field scientist, she has yet to build up her 'field-kit
 \pagebreak 
 \BgThispage
 ```
-## Final paragraph concluding why Nora is awesome
 
-<<<<<<< HEAD
 ## Final paragraph concluding why Nora is awesome 
 With these additional funds, Nora would be able to afford a nice beginner friendly field-work necessities kit, which would remove the limitations of being able to afford a field-work kit, and ensure that Nora can solely focus on her studies and continue looking into her topic of interest surrounding kelp ecosystems and their importance within the Puget Sound. 
 
 ##Add more
 
 Thank you for your consideration 
-=======
-Thank you for your consideration
->>>>>>> 2d513e3634b4a810035a539a3f9d7442cfa9cbde
 
 Sincerely, \blankline
 
